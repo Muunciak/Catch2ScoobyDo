@@ -1,0 +1,10 @@
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\gra 07.12.csproj.GenerateResource.Cache
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\bin\Debug\gra 07.12.exe
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\bin\Debug\gra 07.12.pdb
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\gra 07.12.exe
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\gra 07.12.pdb
+C:\Users\MariO\Desktop\NAUKA\Programowanie apk\gra programowanie\gra 07.12\gra 07.12\obj\x86\Debug\gra 07.12.csprojResolveAssemblyReference.cache
